@@ -1,4 +1,4 @@
-# Document Similarity Tool
+# Document Similarity Matching Tool
 
 This tool is designed to compare PDF invoices and find the most similar documents from a database of invoices. It uses text extraction, text feature extraction, and both cosine and Jaccard similarity measures to compare the documents. Additionally, it uses image similarity using ORB keypoint detection in OpenCV.
 
