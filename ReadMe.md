@@ -25,7 +25,7 @@ This tool is designed to compare PDF invoices and find the most similar document
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/y938/document-similarity-tool.git
+   git clone https://github.com/y938/Document-Similarity-Matching.git
    cd document-similarity-tool
 2. Install the required libraries
     ```
